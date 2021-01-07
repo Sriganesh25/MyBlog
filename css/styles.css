@@ -1,0 +1,126 @@
+
+body {
+  font-family: "Montserrat";
+  text-align: center;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Montserrat-Bold";
+}
+
+a {
+   margin: 10px;
+  color: #cdc9c3;
+  text-decoration: none;
+}
+   a:hover {
+    color: #0779e4;
+    text-decoration: none;
+  }
+
+/* Headings */
+.head-img{
+   width: 100%;
+   }
+
+.big-heading {
+  font-family: "Montserrat-Black";
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.section-heading {
+    padding: 30px;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+.content{
+  font-size: 1.5rem;
+line-height: 2;
+}
+
+/* Containers */
+
+.container-fluid{
+  padding: 7% 15%;
+}
+
+/* Sections */
+
+.colored-section {
+  background-color: #0779e4;
+  color: #fff;
+}
+
+.white-section {
+  background-color: #fff;
+}
+
+/* Navigation Bar */
+
+.navbar {
+  padding: 0 0 4.5rem;
+}
+
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: "Montserrat-Light";
+}
+
+#about img{
+  width: 25%;
+}
+
+#skills-1{
+  text-align: right;
+}
+#skills-2{
+    text-align: left;
+}
+
+
+.skill-tab{
+   padding: 7% 10%;
+  }
+
+.skills-img{
+  width: 25%;
+ margin: 30px;
+}
+
+.testimonial-text {
+  font-size: 2.5rem;
+  line-height: 1.5;
+}
+
+.testimonial-image {
+  width: 30%;
+  margin: 20px;
+}
+.testimonial-a{
+  color: white;
+}
+.testimonial-a:hover{
+  color: Black;
+}
+
+
+#footer p{
+  padding: 20px;
+}
+
+
+
+.c-button{
+  margin: 5%;
+}
